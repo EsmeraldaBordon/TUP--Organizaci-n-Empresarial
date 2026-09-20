@@ -1,2 +1,3 @@
-# TUP--Organizaci-n-Empresarial
-Trabajos prácticos de organización empresarial.
+# Organización Empresarial
+
+Este repositorio contiene mis trabajos prácticos de la Tecnicatura Universitaria en Programación.
